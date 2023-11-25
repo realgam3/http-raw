@@ -1,3 +1,3 @@
-module http-raw
+module http_raw
 
 go 1.21
