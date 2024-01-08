@@ -3,7 +3,7 @@ package main
 import (
 	"bytes"
 	"crypto/tls"
-	"http-raw"
+	"github.com/realgam3/http-raw"
 	"io"
 	"log"
 	"time"
